@@ -1,3 +1,3 @@
 # newsapp
 
-A new Flutter project.
+This is news app, used to fetch News of one selected country.
